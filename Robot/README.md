@@ -1,18 +1,18 @@
 # Robot class
-Домашнее задание: разработать класс Robot, 
-написать для него метод moveRobot.  
-## Демонстрация
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ Robot, 
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ moveRobot.  
+## пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
-## Тесты
-Запуск (необходим maven):
+## пїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ maven):
 ```
 mvn test
 ```
-![alt coverage](https://github.com/vladnov138/tree/main/assets/demo.png)
-## Покрытие тестами:
-Генерация отчета (необходим maven):
+![alt demo](https://github.com/vladnov138/kotlin_practice/blob/main/Robot/assets/demo.png)
+## пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ maven):
 ```
 mvn package
 ```
-Отчет искать в: **target/site/index.html**
-![alt coverage](https://github.com/vladnov138/tree/main/assets/coverage.png)
+пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ: **target/site/index.html**
+![alt coverage](https://github.com/vladnov138/kotlin_practice/blob/main/Robot/assets/coverage.png)
