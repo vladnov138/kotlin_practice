@@ -2,13 +2,12 @@
 Домашнее задание: разработать класс Robot,
 написать для него метод moveRobot.
 ## Демонстрация
-
+![alt demo](https://github.com/vladnov138/kotlin_practice/blob/main/Robot/assets/demo.png)
 ## Тесты
 Запуск (необходим maven):
 ```
 mvn test
 ```
-![alt demo](https://github.com/vladnov138/kotlin_practice/blob/main/Robot/assets/demo.png)
 ## Покрытие тестами:
 Генерация отчета (необходи maven):
 ```
