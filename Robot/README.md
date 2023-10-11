@@ -1,18 +1,18 @@
 # Robot class
-Домашнее задание: разработать класс Robot,
-написать для него метод moveRobot.
-## Демонстрация
+Р”РѕРјР°С€РЅРµРµ Р·Р°РґР°РЅРёРµ: СЂР°Р·СЂР°Р±РѕС‚Р°С‚СЊ РєР»Р°СЃСЃ Robot,
+РЅР°РїРёСЃР°С‚СЊ РґР»СЏ РЅРµРіРѕ РјРµС‚РѕРґ moveRobot.
+## Р”РµРјРѕРЅСЃС‚СЂР°С†РёСЏ
 
-## Тесты
-Запуск (необходим maven):
+## РўРµСЃС‚С‹
+Р—Р°РїСѓСЃРє (РЅРµРѕР±С…РѕРґРёРј maven):
 ```
 mvn test
 ```
 ![alt demo](https://github.com/vladnov138/kotlin_practice/blob/main/Robot/assets/demo.png)
-## Покрытие тестами:
-Генерация отчета (необходим maven):
+## РџРѕРєСЂС‹С‚РёРµ С‚РµСЃС‚Р°РјРё:
+Р“РµРЅРµСЂР°С†РёСЏ РѕС‚С‡РµС‚Р° (РЅРµРѕР±С…РѕРґРё maven):
 ```
 mvn package
 ```
-Отчет искать в: **target/site/index.html**
+РћС‚С‡РµС‚ РёСЃРєР°С‚СЊ РІ: **target/site/index.html**
 ![alt coverage](https://github.com/vladnov138/kotlin_practice/blob/main/Robot/assets/coverage.png)
