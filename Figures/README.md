@@ -1,17 +1,17 @@
 # Transforming
-Домашнее задание: Реализовать интерфейс Transforming
-в классах фигур.
-## Демонстрация
+Р”РѕРјР°С€РЅРµРµ Р·Р°РґР°РЅРёРµ: Р РµР°Р»РёР·РѕРІР°С‚СЊ РёРЅС‚РµСЂС„РµР№СЃ Transforming
+РІ РєР»Р°СЃСЃР°С… С„РёРіСѓСЂ.
+## Р”РµРјРѕРЅСЃС‚СЂР°С†РёСЏ
 ![alt demo](https://github.com/vladnov138/kotlin_practice/blob/main/Robot/assets/demo.png)
-## Тесты
-Запуск (необходим maven):
+## РўРµСЃС‚С‹
+Р—Р°РїСѓСЃРє (РЅРµРѕР±С…РѕРґРёРј maven):
 ```
 mvn test
 ```
-## Покрытие тестами:
-Генерация отчета (необходим maven):
+## РџРѕРєСЂС‹С‚РёРµ С‚РµСЃС‚Р°РјРё:
+Р“РµРЅРµСЂР°С†РёСЏ РѕС‚С‡РµС‚Р° (РЅРµРѕР±С…РѕРґРёРј maven):
 ```
 mvn package
 ```
-Отчет искать в: **target/site/index.html**
+РћС‚С‡РµС‚ РёСЃРєР°С‚СЊ РІ: **target/site/index.html**
 ![alt coverage](https://github.com/vladnov138/kotlin_practice/blob/main/Robot/assets/coverage.png)
